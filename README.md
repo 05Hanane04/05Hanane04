@@ -13,7 +13,5 @@ Check out my small-projects ....
 ![](https://nirzak-streak-stats.vercel.app/?user=05Hanane04&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=05Hanane04&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=05Hanane04&icon=2&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ![snake gif](https://github.com/05Hanane04/05Hanane04/blob/output/github-snake-dark.svg)
