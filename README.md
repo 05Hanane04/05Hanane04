@@ -1,40 +1,8 @@
 # 💫 About Me:
-Hello  👋, <br>I'm Hanane Challal , a passionate web developer from Casablanca - Morocco<br>
+Hello  👋, <br>I'm Hanane , a passionate web developer Based in Morocco 🌍<br>
 Check out my small-projects ....
 
-<h1 id="typewriter"></h1>
-
-<script>
-  const titles = ["Hello, I'm Hanane!", "Full Stack Developer 💻", "Based in Morocco 🌍"];
-  let i = 0, j = 0, current = '', isDeleting = false;
-
-  function type() {
-    if (i < titles.length) {
-      let fullText = titles[i];
-
-      if (isDeleting) {
-        current = fullText.substring(0, j--);
-      } else {
-        current = fullText.substring(0, j++);
-      }
-
-      document.getElementById('typewriter').innerHTML = current;
-
-      if (!isDeleting && j === fullText.length) {
-        isDeleting = true;
-        setTimeout(type, 1000);
-      } else if (isDeleting && j === 0) {
-        isDeleting = false;
-        i = (i + 1) % titles.length;
-        setTimeout(type, 200);
-      } else {
-        setTimeout(type, isDeleting ? 50 : 100);
-      }
-    }
-  }
-
-  type();
-</script>
+![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanane-challal) 
