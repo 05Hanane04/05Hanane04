@@ -16,3 +16,12 @@ Hello  👋, <br>I'm Hanane Challal , a passionate web developer from Casablanca
 [![](https://visitcount.itsvg.in/api?id=05Hanane04&icon=2&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/05Hanane04/05Hanane04/output/snake.svg" alt="Snake animation" />
+
+###
