@@ -1,5 +1,4 @@
 # 💫 About Me :
-![Profile Views](https://komarev.com/ghpvc/?username=05Hanane04&style=flat&color=brightgreen)
 
 Hello  👋, <br>I'm Hanane , a passionate web developer 💻 , Based in Morocco 🌍<br>
 Check out my small-projects ...😄
@@ -15,6 +14,8 @@ Check out my small-projects ...😄
 ![](https://github-readme-stats.vercel.app/api?username=05Hanane04&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=05Hanane04&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=05Hanane04&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Profile Views](https://komarev.com/ghpvc/?username=05Hanane04&style=flat&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   ![snake gif](https://github.com/05Hanane04/05Hanane04/blob/output/github-snake-dark.svg)
