@@ -1,6 +1,6 @@
 # 💫 About Me :
 
-Hello  👋, <br>I'm Hanane , a passionate web developer 💻 , Based in Morocco 🌍<br>
+Hello  👋, <br>I'm Hanane , a passionate web developer 💻 , Based in Casablanca , Morocco 🌍<br>
 Check out my small-projects ...😄
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;)
