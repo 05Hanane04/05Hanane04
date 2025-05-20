@@ -1,4 +1,6 @@
 # 💫 About Me :
+![Profile Views](https://komarev.com/ghpvc/?username=05Hanane04&style=flat&color=brightgreen)
+
 Hello  👋, <br>I'm Hanane , a passionate web developer 💻 , Based in Morocco 🌍<br>
 Check out my small-projects ...😄
 
