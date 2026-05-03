@@ -14,9 +14,6 @@ Hello  👋, <br>This is Challal Hanane , creative girl , passionate about Data 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=05Hanane04&theme=tokyonight)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=05Hanane04&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=05Hanane04&layout=compact&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   ![snake gif](https://github.com/05Hanane04/05Hanane04/blob/output/github-snake-dark.svg)
