@@ -1,5 +1,5 @@
 # 💫 About Me :
-Hello  👋, <br>This is Challal Hanane , creative girl , passionate about Data Science 🤖✨<br>
+Hello  👋, <br>This is Challal Hanane , Creative Girl , Passionate about Web Development & Data Science. 🤖✨<br>
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Computer+Science+Student;)
 
